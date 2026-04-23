@@ -88,17 +88,9 @@ Interests: financial mathematics, convex optimization, competitive programming, 
 
 ## // Projects
 
+<!-- PROJECTS_START -->
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>[ AI Authenticity Detector ]</h3>
-      <p>Deepfake detection system using a custom CNN trained on FaceForensics++. Classifies manipulated media with >94% accuracy across video and image inputs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Zeeham04/Juris-AI">[ Juris AI ]</a></h3>
       <p>RAG-based legal chatbot built at CodetheChange. Fine-tuned on US federal case law via a custom Python scraper, served via OpenAI API with AWS backend integration.</p>
@@ -108,8 +100,6 @@ Interests: financial mathematics, convex optimization, competitive programming, 
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://www.scadacore.com/tools/other-tools/alberta-oil-wells-map/">[ Alberta Oil Wells Platform ]</a></h3>
       <p>Production geospatial platform serving 587K+ AER oil wells and 5.8M+ production records via Martin vector tiles. Custom ETL pipeline, LSD coordinate conversion, 8-zone Alberta cluster boundary rendering.</p>
@@ -119,6 +109,8 @@ Interests: financial mathematics, convex optimization, competitive programming, 
         <img src="https://img.shields.io/badge/MapLibre_GL-396CB2?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Zeeham04/Flappybird-AI">[ Flappy Bird RL Agent ]</a></h3>
       <p>Neuroevolution agent using NEAT that learns to play Flappy Bird from scratch. MySQL database tracks generational fitness, pipe data, and historical game sessions to inform future runs.</p>
@@ -128,8 +120,10 @@ Interests: financial mathematics, convex optimization, competitive programming, 
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
+<!-- PROJECTS_END -->
 
 ---
 
