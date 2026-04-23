@@ -24,7 +24,7 @@
 
 ```
 > University of Calgary  —  B.Sc. Computational Mathematics, Minor in Computer Science
-> GPA 3.75 / 4.0  —  Expected Graduation: April 2027
+>   Expected Graduation: April 2027
 > Incoming Technology Analyst @ Accenture  —  Summer 2026, Regina
 ```
 
