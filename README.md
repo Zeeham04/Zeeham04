@@ -138,7 +138,7 @@ Interests: financial mathematics, convex optimization, competitive programming, 
 ```
 University of Calgary
   -> B.Sc. Computational Mathematics, Minor in Computer Science
-  -> GPA: 3.75 / 4.0  |  Expected: April 2027
+  -> Expected: April 2027
   -> Numerical Methods  |  PDEs  |  Algorithms  |  Data Structures
      Database Systems   |  Cryptography  |  Financial Mathematics
      Computer Graphics  |  Discrete Mathematics  |  Programming Paradigms
