@@ -16,27 +16,30 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Sc.+Computational+Mathematics+%40+University+of+Calgary;ML+%26+Data+Engineering+%7C+Scientific+Computing;Building+at+the+intersection+of+Math+%2B+Code;Incoming+Technology+Analyst+%40+Accenture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Sc.+Computational+Mathematics+%40+University+of+Calgary;ML+%26+Data+Engineering+%7C+Scientific+Computing;Building+at+the+intersection+of+Math+%2B+Code;Incoming+Technology+Analyst+%40+Accenture" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+```
+> University of Calgary  —  B.Sc. Computational Mathematics, Minor in Computer Science
+> GPA 3.75 / 4.0  —  Expected Graduation: April 2027
+> Incoming Technology Analyst @ Accenture  —  Summer 2026, Regina
+```
 
-I'm a **Computational Mathematics** student (minor in Computer Science) at the **University of Calgary** — graduating April 2027 with a 3.75 GPA. My work sits at the intersection of applied mathematics, machine learning, and data infrastructure. I care about building things that are rigorous under the hood and useful in practice.
+I work at the intersection of applied mathematics, machine learning, and data infrastructure — with a focus on building things that are rigorous under the hood and useful in practice. My background spans ETL pipelines at production scale, geospatial data systems, deep learning, and the mathematical foundations that most engineering curricula skip over.
 
-- 🏢 &nbsp;Incoming **Technology Analyst @ Accenture** — Summer 2026, Regina
-- 🔬 &nbsp;Former **Software & Data Engineering Intern @ SCADACore** — built ETL pipelines over 587K+ oil wells and 5.8M+ production records across Alberta AER datasets
-- 📐 &nbsp;Coursework spanning **Numerical Methods, PDEs, Algorithms, Cryptography, Database Systems**, and more
-- 🧠 &nbsp;Deep interests in **financial mathematics**, **convex optimization**, and **competitive programming**
-- 📍 &nbsp;Based in **Calgary, AB**
+Previously a **Software & Data Engineering Intern at SCADACore**, where I built ETL pipelines across 587K+ oil wells and 5.8M+ AER production records, and developed a full geospatial mapping platform in C#/.NET with PostGIS and MapLibre GL.
+
+Interests: financial mathematics, convex optimization, competitive programming, scientific computing.
 
 ---
 
-## 🛠️ Tech Stack
+## // Tech Stack
 
-### Languages
+**Languages**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -49,7 +52,8 @@ I'm a **Computational Mathematics** student (minor in Computer Science) at the *
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-### ML / Data Science
+**ML / Data Science**
+
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -57,10 +61,10 @@ I'm a **Computational Mathematics** student (minor in Computer Science) at the *
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
-### Data Engineering & Infrastructure
+**Data Engineering & Infrastructure**
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostGIS-008BB9?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -70,25 +74,25 @@ I'm a **Computational Mathematics** student (minor in Computer Science) at the *
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-### Web & Full-Stack
+**Web & Full-Stack**
+
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MapLibre_GL_JS-396CB2?style=for-the-badge&logo=maplibre&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## // Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 AI Authenticity Detector</h3>
-      <p>Deepfake detection system using a custom CNN trained on the FaceForensics++ dataset. Achieves >94% classification accuracy on manipulated media.</p>
+      <h3>[ AI Authenticity Detector ]</h3>
+      <p>Deepfake detection system using a custom CNN trained on FaceForensics++. Classifies manipulated media with >94% accuracy across video and image inputs.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -96,8 +100,8 @@ I'm a **Computational Mathematics** student (minor in Computer Science) at the *
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚖️ Juris AI</h3>
-      <p>RAG-based legal chatbot built at CodetheChange hackathon. Fine-tuned on US federal case law via custom Python scraper, integrated with OpenAI API and AWS.</p>
+      <h3>[ Juris AI ]</h3>
+      <p>RAG-based legal chatbot built at CodetheChange. Fine-tuned on US federal case law via a custom Python scraper, served via OpenAI API with AWS backend integration.</p>
       <p>
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -107,8 +111,8 @@ I'm a **Computational Mathematics** student (minor in Computer Science) at the *
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛢️ <a href="https://www.scadacore.com/tools/other-tools/alberta-oil-wells-map/">Alberta Oil Wells Platform</a></h3>
-      <p>Full-stack geospatial mapping platform serving 587K+ AER oil wells and 5.8M+ production records via Martin vector tiles. Built at SCADACore with a custom ETL pipeline, LSD coordinate conversion, and 8-zone cluster rendering.</p>
+      <h3><a href="https://www.scadacore.com/tools/other-tools/alberta-oil-wells-map/">[ Alberta Oil Wells Platform ]</a></h3>
+      <p>Production geospatial platform serving 587K+ AER oil wells and 5.8M+ production records via Martin vector tiles. Custom ETL pipeline, LSD coordinate conversion, 8-zone Alberta cluster rendering.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/PostGIS-008BB9?style=flat-square&logo=postgresql&logoColor=white" />
@@ -116,8 +120,8 @@ I'm a **Computational Mathematics** student (minor in Computer Science) at the *
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Flappy Bird Deep RL Agent</h3>
-      <p>Neuroevolution agent using NEAT that learns to play Flappy Bird. Integrates a MySQL database for historical game data persistence and generational fitness tracking.</p>
+      <h3>[ Flappy Bird RL Agent ]</h3>
+      <p>Neuroevolution agent using NEAT that learns to play Flappy Bird from scratch. MySQL database tracks generational fitness, pipe data, and historical game sessions to inform future runs.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/NEAT--Python-FF6B6B?style=flat-square" />
@@ -127,8 +131,8 @@ I'm a **Computational Mathematics** student (minor in Computer Science) at the *
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 Real Estate SaaS Portal</h3>
-      <p>Multi-tenant real estate platform with passwordless auth, tenant-scoped data isolation, messaging system, saved searches, and seller lead forms. Production-grade Next.js 16 architecture.</p>
+      <h3>[ Real Estate SaaS Portal ]</h3>
+      <p>Multi-tenant platform with passwordless auth, tenant-scoped data isolation, messaging system, saved searches, and seller lead forms. Production-grade Next.js 16 with Prisma ORM.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
@@ -136,8 +140,8 @@ I'm a **Computational Mathematics** student (minor in Computer Science) at the *
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📐 Numerical Methods Toolkit <em>(In Progress)</em></h3>
-      <p>Python implementation of interpolation (Newton, Lagrange, Hermite), Gauss-Legendre quadrature, composite Simpson's rule, and finite difference PDE solvers — with convergence analysis and visualizations.</p>
+      <h3>[ Numerical Methods Toolkit ] <sub>in progress</sub></h3>
+      <p>Python implementations of Newton/Lagrange/Hermite interpolation, Gauss-Legendre quadrature, composite Simpson's rule, and finite difference PDE solvers — with convergence analysis and visualizations.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -149,7 +153,7 @@ I'm a **Computational Mathematics** student (minor in Computer Science) at the *
 
 ---
 
-## 📊 GitHub Stats
+## // Stats
 
 <div align="center">
 
@@ -165,24 +169,33 @@ I'm a **Computational Mathematics** student (minor in Computer Science) at the *
 
 ---
 
-## 🎓 Education & Credentials
+## // Education & Credentials
 
-| | |
-|---|---|
-| 🏫 **University of Calgary** | B.Sc. Computational Mathematics, Minor in Computer Science — GPA 3.75/4.0 — Expected April 2027 |
-| 📜 **Google Data Analytics Certificate** | Professional Certificate (2025) |
-| 🏆 **Relevant Coursework** | Numerical Methods · PDEs · Algorithms · Data Structures · Database Systems · Cryptography · Computer Graphics · Discrete Mathematics · Financial Mathematics · Programming Paradigms |
+```
+University of Calgary
+  -> B.Sc. Computational Mathematics, Minor in Computer Science
+  -> GPA: 3.75 / 4.0  |  Expected: April 2027
+  -> Numerical Methods  |  PDEs  |  Algorithms  |  Data Structures
+     Database Systems   |  Cryptography  |  Financial Mathematics
+     Computer Graphics  |  Discrete Mathematics  |  Programming Paradigms
+
+Google Data Analytics Professional Certificate  (2025)
+```
 
 ---
 
-## 💼 Experience
+## // Experience
 
-**Technology Analyst Intern** — *Accenture* · Summer 2026 · Regina, SK
+```
+Accenture                         Technology Analyst Intern
+                                  Summer 2026  —  Regina, SK
 
-**Software Development & Data Engineering Intern** — *SCADACore* · Calgary, AB
-- Built ETL pipelines processing millions of Alberta Energy Regulator (AER) oil well records
-- Developed geospatial mapping platform with C#/.NET, MapLibre GL JS, and PostGIS
-- Implemented LSD-to-coordinate conversion and 8-zone cluster boundary rendering across Alberta
+SCADACore                         Software Development & Data Engineering Intern
+Calgary, AB
+  -> ETL pipelines over 587K+ oil wells and 5.8M+ AER production records
+  -> Geospatial mapping platform: C#/.NET + MapLibre GL JS + PostGIS
+  -> LSD-to-coordinate conversion, 8-zone Alberta cluster boundary rendering
+```
 
 ---
 
