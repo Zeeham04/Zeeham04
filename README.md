@@ -24,7 +24,7 @@
 
 ```
 > University of Calgary  —  B.Sc. Computational Mathematics, Minor in Computer Science
->   Expected Graduation: April 2027
+> Expected Graduation: April 2027
 > Incoming Technology Analyst @ Accenture  —  Summer 2026, Regina
 ```
 
@@ -112,7 +112,7 @@ Interests: financial mathematics, convex optimization, competitive programming, 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://www.scadacore.com/tools/other-tools/alberta-oil-wells-map/">[ Alberta Oil Wells Platform ]</a></h3>
-      <p>Production geospatial platform serving 587K+ AER oil wells and 5.8M+ production records via Martin vector tiles. Custom ETL pipeline, LSD coordinate conversion, 8-zone Alberta cluster rendering.</p>
+      <p>Production geospatial platform serving 587K+ AER oil wells and 5.8M+ production records via Martin vector tiles. Custom ETL pipeline, LSD coordinate conversion, 8-zone Alberta cluster boundary rendering.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/PostGIS-008BB9?style=flat-square&logo=postgresql&logoColor=white" />
@@ -126,26 +126,6 @@ Interests: financial mathematics, convex optimization, competitive programming, 
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/NEAT--Python-FF6B6B?style=flat-square" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>[ Real Estate SaaS Portal ]</h3>
-      <p>Multi-tenant platform with passwordless auth, tenant-scoped data isolation, messaging system, saved searches, and seller lead forms. Production-grade Next.js 16 with Prisma ORM.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>[ Numerical Methods Toolkit ] <sub>in progress</sub></h3>
-      <p>Python implementations of Newton/Lagrange/Hermite interpolation, Gauss-Legendre quadrature, composite Simpson's rule, and finite difference PDE solvers — with convergence analysis and visualizations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
       </p>
     </td>
   </tr>
